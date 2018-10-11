@@ -2,7 +2,7 @@ package com.capgemini.order.entity;
 
 public class LineItem {
 
-	
+
 	private int itemQuantity;
 	private int productId;
 	public LineItem() {
